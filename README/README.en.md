@@ -1,11 +1,11 @@
-<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+<a href="../README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
 </br>
 # https://bubenture.github.io/users
 
 
 A single-page application that loads a list of users from an external API and allows filtering by name.
 
-![users](img/users.png)
+![users](../img/users.png)
 
 #### Loading Users:
 When the site is opened, a request is automatically sent to the service at https://jsonplaceholder.typicode.com/users. A "Loading..." message is displayed for 2 seconds, after which the list of users appears.
